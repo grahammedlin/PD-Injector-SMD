@@ -1,4 +1,4 @@
-# PD-Injector MSD Verison
+# PD-Injector SMD Verison
 
 Based on earlier Versions by 
 Jana-Marie Hemsing [https://github.com/Jana-Marie/PD-Injector](https://github.com/Jana-Marie/PD-Injector)
