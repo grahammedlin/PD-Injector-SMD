@@ -350,7 +350,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PD-Injector.kicad_pro",
+    "filename": "PD-Injector-SMD.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PD-Injector-SMD.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
