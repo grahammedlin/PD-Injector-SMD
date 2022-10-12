@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.5,
-          "height": 0.6,
-          "width": 0.6
+          "drill": 0.0,
+          "height": 1.4,
+          "width": 1.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|159998512|83099999|209a047b-a558-4365-bd71-2411d8d4643e|e6e729ef-2836-43bc-9521-b8f3d982c0a7",
+        "silk_over_copper|174900000|81800000|f778d054-0bbe-41e3-b1db-e7cdf14323d2|6d5603ec-aad9-4afb-8ae8-f95e52f4d481"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -104,7 +107,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.19999999999999998,
+        "min_clearance": 0.15,
         "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.3,
         "min_hole_to_hole": 0.25,
@@ -357,7 +360,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.16,
