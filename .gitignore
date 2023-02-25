@@ -14,6 +14,14 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+sym-lib-table
+fp-lib-table
+
+PD-Injector-SMD-backups/
+
+# Fabrication output gerbers
+gerber/
+
 # Netlist files (exported from Eeschema)
 *.net
 
