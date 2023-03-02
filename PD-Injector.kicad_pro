@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 0.52
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -416,7 +416,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PD-Injector-SMD.kicad_pro",
+    "filename": "PD-Injector.kicad_pro",
     "version": 1
   },
   "net_settings": {
