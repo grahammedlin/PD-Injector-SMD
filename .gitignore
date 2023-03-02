@@ -30,8 +30,4 @@ gerber/
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
-PD-Injector-SMD_oldFormfactor.zip
-PD-Injector-SMD.kicad_prl
+PD-Injector_oldFormfactor.zip

@@ -1,0 +1,4 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","D1","1","LED","LED_SMD:LED_0402_1005Metric",""
+"2","R1, R2, R3","3","5.1k","Resistor_SMD:R_0402_1005Metric",""
+"3","USB-C1, USB-C2, USB-C3","3","USB-C USB2.0 PD","PD-Injector:JAE_DX07S016JA1R1500",""
