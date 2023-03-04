@@ -953,7 +953,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 124.46 90.17 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 127fd074-fb90-4726-b143-d97766dff79b)
     (property "Reference" "TP2" (at 129.159 89.3353 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1122,7 +1122,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 124.46 57.15 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7cf6fa88-c455-48df-afb8-5568c829d338)
     (property "Reference" "TP1" (at 129.159 56.3153 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1198,7 +1198,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 173.99 95.25 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f15812da-b2a9-4b21-b46f-2b0bd658c9e0)
     (property "Reference" "H2" (at 176.53 93.1453 0)
       (effects (font (size 1.27 1.27)) (justify left))
