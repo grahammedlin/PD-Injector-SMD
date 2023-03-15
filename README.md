@@ -20,6 +20,12 @@ Interestingly, the Pinecil and MHP30 both use the Onsemi FUSB302MPX, but the Pin
 
 <img src="doc/PXL_20230313_023249652.jpg" alt="PD-Injector with hotplate" width="500px">
 
+90 W power supply to read a USB-A thumb drive? Sure.
+
+<img src="doc/PXL_20230315_014529537.jpg" alt="PD-Injector with hotplate" width="500px">
+
+
+
 [//]: # (Connecting two devices with USB Type C receptacles with a USB Type C cable is the intended use. But if one receptacle isn't a device but a passive board, that's a problem.)
 [//]: # (An E-Marker is required on all USB Type-C cables that support 5 amps and/or exceed 60 watts of power carrying capability)
 
@@ -28,4 +34,5 @@ Interestingly, the Pinecil and MHP30 both use the Onsemi FUSB302MPX, but the Pin
 CERN Open Hardware Licence v1.2.  See LICENSE for more information.
 
 ## References
-[USB.org card edge gerbers](https://www.usb.org/document-library/usb-type-c-cable-assembly-signal-integrity-test-fixture-gerber-files)
+- [USB.org PD](https://www.usb.org/sites/default/files/D2T2-1%20-%20USB%20Power%20Delivery.pdf)
+- [USB.org card edge gerbers](https://www.usb.org/document-library/usb-type-c-cable-assembly-signal-integrity-test-fixture-gerber-files)
