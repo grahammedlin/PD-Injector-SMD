@@ -452,7 +452,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "PD-Injector-SMD.step",
+      "step": "PD-Injector.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
